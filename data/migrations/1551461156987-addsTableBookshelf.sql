@@ -17,3 +17,4 @@ ALTER TABLE books DROP COLUMN bookshelf;
 -- removes the bookshelf names now that we have an id to use instead
 
 ALTER TABLE books ADD CONSTRAINT fk_bookshelves FOREIGN KEY (bookshelf_id) REFERENCES bookshelves(id);
+-- connects the bookshelf_id from books, and id from bookshelves, so that they always match properly

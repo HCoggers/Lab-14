@@ -21,7 +21,7 @@ Actual time needed to complete: 7 mins
 ## 3. Create Migration Folder
 ``` 
 Estimate of time needed to complete: 3 mins 
-Start time: _____ 
-Finish time: _____ 
-Actual time needed to complete: _____ 
+Start time: 9:30 
+Finish time: 9:47 
+Actual time needed to complete: 17 mins 
 ```
