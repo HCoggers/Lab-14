@@ -3,7 +3,7 @@
 ## 1. Database Setup
 ``` 
 Estimate of time needed to complete: 10 mins 
-Start time: _____ 
+Start time: 9:06 
 Finish time: _____ 
 Actual time needed to complete: _____ 
 ```
